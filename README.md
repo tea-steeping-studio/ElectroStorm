@@ -1,2 +1,2 @@
-# weathering-with-go
-Front End User Interface for Weathering with go
+# Electro Storm
+Front End User Interface for Weathering with go built with Electron
